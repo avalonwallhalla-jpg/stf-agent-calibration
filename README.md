@@ -23,4 +23,9 @@ erfolgen.
 2. Nachvollziehbare Energiebilanz aus Feldenergien (Lagrangedichte oder Analogmodell)
 3. Quantitative Prüfung, wie Spin, g-Faktor und Lamb-Shift aus der Topologie oder Feldkopplung hervorgehen können
 4. Kritische Prüfung aller Schritte auf numerische Plausibilität
+numpy
+scipy
+sympy
+networkx
+tqdm
    
